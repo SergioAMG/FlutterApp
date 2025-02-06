@@ -93,7 +93,7 @@ Source [^2]
 | Call the Gemini API | Call the Gemini API with either text-only or multimodal prompts to generate text output. Use more complex calls to build chat experiences or use function calling. Source [^3]|
 | Prepare for production | Implement important integrations for mobile and web apps, like protecting the API from abuse with Firebase App Check and including large files in requests using Cloud Storage for Firebase URLs. |
 
-### Technical Requirements
+### Technical Requirements & Installation Steps
 
 - Development environment and Flutter with Dart 3.2.0+
 - Set up a Firebase project
@@ -111,7 +111,7 @@ Source [^2]
 [^3]: Calling the Models: [Get started with the Gemini API using the Vertex AI in Firebase SDKs.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTYyMDA1MSwxMzI0Nzg5MTIwLDE4Mz
+eyJoaXN0b3J5IjpbMTQxODk3NDc0NiwxMzI0Nzg5MTIwLDE4Mz
 A4NTI2ODIsMTkxMTgxNzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0
 ODM2NiwxNzI4MzAxNDg2LC0yNjc1ODQxMTMsLTEyMTg5NjIxMj
 ksNjMzOTI0NjIwXX0=
