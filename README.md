@@ -78,9 +78,12 @@ The Vertex AI in Firebase SDKs allows you to call the Vertex AI Gemini API direc
 - Gemini 1.0 Pro Vision
 - Gemini 1.0 Pro
 
+### Supported capabilities per model
+
+
 ### Official Documentation
 Find complete information at: [Gemini API using Vertex AI in Firebase .](https://firebase.google.com/docs/vertex-ai)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzU4NDExMywtMTIxODk2MjEyOSw2Mz
-M5MjQ2MjBdfQ==
+eyJoaXN0b3J5IjpbMTcyODMwMTQ4NiwtMjY3NTg0MTEzLC0xMj
+E4OTYyMTI5LDYzMzkyNDYyMF19
 -->
