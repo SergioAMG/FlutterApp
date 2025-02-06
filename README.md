@@ -50,6 +50,9 @@ the `lib/src/localization` directory.
 
 To support additional languages, please visit the tutorial on
 [Internationalizing Flutter apps](https://flutter.dev/to/internationalization).
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg5NjIxMjksNjMzOTI0NjIwXX0=
+eyJoaXN0b3J5IjpbMTY3MzA4MjUwNywtMTIxODk2MjEyOSw2Mz
+M5MjQ2MjBdfQ==
 -->
