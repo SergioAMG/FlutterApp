@@ -89,8 +89,8 @@ Source [^2]
 | Steps | Description      |
 |:---------| :-------------|
 | Connect your app to Firebase | Register your app with your Firebase project, and then add your Firebase configuration to your app. |
-| Install the SDK and initialize | Install the Vertex AI in Firebase SDK that's specific to your app's platform, and then initialize the Vertex AI service and the generative model in your app. |
-| Call the Gemini API | Call the Gemini API with either text-only or multimodal prompts to generate text output. Use more complex calls to build chat experiences or use function calling. |
+| Install the SDK and initialize | Install the Vertex AI in Firebase SDK that's specific to your app's platform, and then initialize the Vertex AI service and the generative model in your app.  |
+| Call the Gemini API | Call the Gemini API with either text-only or multimodal prompts to generate text output. Use more complex calls to build chat experiences or use function calling. Source [^3]|
 | Prepare for production | Implement important integrations for mobile and web apps, like protecting the API from abuse with Firebase App Check and including large files in requests using Cloud Storage for Firebase URLs. |
 
 ### Technical Requirements
@@ -104,7 +104,8 @@ Source [^2]
 [^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDg1MjY4MiwxOTExODE3NjQ1LC0xMz
-A5MTA4NjIyLC0xMjY1MzQ4MzY2LDE3MjgzMDE0ODYsLTI2NzU4
-NDExMywtMTIxODk2MjEyOSw2MzM5MjQ2MjBdfQ==
+eyJoaXN0b3J5IjpbLTU3NTk4NTkyLDE4MzA4NTI2ODIsMTkxMT
+gxNzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0ODM2NiwxNzI4MzAx
+NDg2LC0yNjc1ODQxMTMsLTEyMTg5NjIxMjksNjMzOTI0NjIwXX
+0=
 -->
