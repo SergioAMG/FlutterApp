@@ -2,6 +2,19 @@
 
 A new Flutter project.
 
+Lists
+---------------------------
+- Item
+- Item
+- Item
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+- [ ] Incomplete item
+- [x] Complete item
+
 ## Getting Started
 
 This project is a starting point for a Flutter application that follows the
@@ -28,5 +41,5 @@ the `lib/src/localization` directory.
 To support additional languages, please visit the tutorial on
 [Internationalizing Flutter apps](https://flutter.dev/to/internationalization).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzOTI0NjIwXX0=
+eyJoaXN0b3J5IjpbLTE1NTgyNzg4NDgsNjMzOTI0NjIwXX0=
 -->
