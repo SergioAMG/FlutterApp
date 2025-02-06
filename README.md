@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
   });
 
   final SettingsController settingsController;
-
+```
 ## Getting Started
 
 This project is a starting point for a Flutter application that follows the
@@ -51,5 +51,5 @@ the `lib/src/localization` directory.
 To support additional languages, please visit the tutorial on
 [Internationalizing Flutter apps](https://flutter.dev/to/internationalization).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODkxNjI2NDgsNjMzOTI0NjIwXX0=
+eyJoaXN0b3J5IjpbLTk5MzE4MTg3NCw2MzM5MjQ2MjBdfQ==
 -->
