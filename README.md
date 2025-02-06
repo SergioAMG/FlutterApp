@@ -80,11 +80,11 @@ The Vertex AI in Firebase SDKs allows you to call the Vertex AI Gemini API direc
 
 ### Supported capabilities per model
 
-![alt text](https://github.com/SergioAMG/FlutterApp/blob/045340ccd483bc44cddde1ea9d24fdedccdd831a/assets/images/Supported%20IO%20per%20Gemini%20Model.png)
+![alt text](https://github.com/SergioAMG/FlutterApp/blob/main/assets/images/Supported%20IO%20per%20Gemini%20Model.png?raw=true)
 
 ### Official Documentation
 Find complete information at: [Gemini API using Vertex AI in Firebase .](https://firebase.google.com/docs/vertex-ai)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjQzOTc1OSwxNzI4MzAxNDg2LC0yNj
-c1ODQxMTMsLTEyMTg5NjIxMjksNjMzOTI0NjIwXX0=
+eyJoaXN0b3J5IjpbLTEyNjUzNDgzNjYsMTcyODMwMTQ4NiwtMj
+Y3NTg0MTEzLC0xMjE4OTYyMTI5LDYzMzkyNDYyMF19
 -->
