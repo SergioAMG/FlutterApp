@@ -97,7 +97,7 @@ Source [^2]
 
 - Development environment and Flutter with Dart 3.2.0+
 - Set up a Firebase project
-- 
+-  Connect your app to Firebase
 - Three
 
 
@@ -106,7 +106,7 @@ Source [^2]
 [^3]: Calling the Models: [Get started with the Gemini API using the Vertex AI in Firebase SDKs.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTEyODM3MywxMzI0Nzg5MTIwLDE4Mz
+eyJoaXN0b3J5IjpbMTM3MDM5MDQ1NywxMzI0Nzg5MTIwLDE4Mz
 A4NTI2ODIsMTkxMTgxNzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0
 ODM2NiwxNzI4MzAxNDg2LC0yNjc1ODQxMTMsLTEyMTg5NjIxMj
 ksNjMzOTI0NjIwXX0=
