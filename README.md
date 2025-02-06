@@ -51,6 +51,9 @@ the `lib/src/localization` directory.
 To support additional languages, please visit the tutorial on
 [Internationalizing Flutter apps](https://flutter.dev/to/internationalization).
 
+Authors
+:  Sergio Martinez
+
 ## Gemini API using Vertex AI in Firebase
 
 Build AI-powered mobile and web apps and features with the  Gemini API  using  Vertex AI in Firebase
@@ -78,6 +81,6 @@ The Vertex AI in Firebase SDKs allows you to call the Vertex AI Gemini API direc
 ### Official Documentation
 Find complete information at: [Gemini API using Vertex AI in Firebase .](https://firebase.google.com/docs/vertex-ai)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI0MTY3NzYsLTEyMTg5NjIxMjksNj
-MzOTI0NjIwXX0=
+eyJoaXN0b3J5IjpbLTI2NzU4NDExMywtMTIxODk2MjEyOSw2Mz
+M5MjQ2MjBdfQ==
 -->
