@@ -93,11 +93,18 @@ Source [^2]
 | Call the Gemini API | Call the Gemini API with either text-only or multimodal prompts to generate text output. Use more complex calls to build chat experiences or use function calling. |
 | Prepare for production | Implement important integrations for mobile and web apps, like protecting the API from abuse with Firebase App Check and including large files in requests using Cloud Storage for Firebase URLs. |
 
+### Technical Requirements
+
+- One
+- Two
+- Three
+
+
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
 [^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTEyOTc0NjMsMTkxMTgxNzY0NSwtMT
-MwOTEwODYyMiwtMTI2NTM0ODM2NiwxNzI4MzAxNDg2LC0yNjc1
-ODQxMTMsLTEyMTg5NjIxMjksNjMzOTI0NjIwXX0=
+eyJoaXN0b3J5IjpbMTgzMDg1MjY4MiwxOTExODE3NjQ1LC0xMz
+A5MTA4NjIyLC0xMjY1MzQ4MzY2LDE3MjgzMDE0ODYsLTI2NzU4
+NDExMywtMTIxODk2MjEyOSw2MzM5MjQ2MjBdfQ==
 -->
