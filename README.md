@@ -86,11 +86,11 @@ Source [^2]
 
 ### Footnotes
 
-[^1]: Official Documentation: [Gemini API using Vertex AI in Firebase .](https://firebase.google.com/docs/vertex-ai)
-[^2]: Official Documentation: [Gemini API using Vertex AI in Firebase .](https://firebase.google.com/docs/vertex-ai)
+[^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
+[^2]: I/O Model upport: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTk5NTkyLC0xMjY1MzQ4MzY2LDE3Mj
-gzMDE0ODYsLTI2NzU4NDExMywtMTIxODk2MjEyOSw2MzM5MjQ2
-MjBdfQ==
+eyJoaXN0b3J5IjpbLTE1NzEzMzkyOTMsLTEyNjUzNDgzNjYsMT
+cyODMwMTQ4NiwtMjY3NTg0MTEzLC0xMjE4OTYyMTI5LDYzMzky
+NDYyMF19
 -->
