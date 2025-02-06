@@ -101,7 +101,9 @@ Source [^2]
 - Upgrade your project to use the pay-as-you-go Blaze pricing plan
 - Enable the required APIs in your project (Vertex AI API and Vertex AI in Firebase API)
 - Add the Flutter SDK into your project
-- Three
+- Initialize the Vertex AI service
+- Initialize the Generative Model
+- Call the Vertex AI Gemini API
 
 
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
@@ -109,8 +111,8 @@ Source [^2]
 [^3]: Calling the Models: [Get started with the Gemini API using the Vertex AI in Firebase SDKs.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzIxOTcyMTMsMTMyNDc4OTEyMCwxOD
-MwODUyNjgyLDE5MTE4MTc2NDUsLTEzMDkxMDg2MjIsLTEyNjUz
-NDgzNjYsMTcyODMwMTQ4NiwtMjY3NTg0MTEzLC0xMjE4OTYyMT
-I5LDYzMzkyNDYyMF19
+eyJoaXN0b3J5IjpbMTI1MTYyMDA1MSwxMzI0Nzg5MTIwLDE4Mz
+A4NTI2ODIsMTkxMTgxNzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0
+ODM2NiwxNzI4MzAxNDg2LC0yNjc1ODQxMTMsLTEyMTg5NjIxMj
+ksNjMzOTI0NjIwXX0=
 -->
