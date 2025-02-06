@@ -95,7 +95,7 @@ Source [^2]
 
 ### Technical Requirements
 
-- One
+- O
 - Two
 - Three
 
@@ -105,8 +105,8 @@ Source [^2]
 [^3]: Calling the Models: [Get started with the Gemini API using the Vertex AI in Firebase SDKs.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDc4OTEyMCwxODMwODUyNjgyLDE5MT
-E4MTc2NDUsLTEzMDkxMDg2MjIsLTEyNjUzNDgzNjYsMTcyODMw
-MTQ4NiwtMjY3NTg0MTEzLC0xMjE4OTYyMTI5LDYzMzkyNDYyMF
-19
+eyJoaXN0b3J5IjpbLTQ4OTI5MzE3NSwxMzI0Nzg5MTIwLDE4Mz
+A4NTI2ODIsMTkxMTgxNzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0
+ODM2NiwxNzI4MzAxNDg2LC0yNjc1ODQxMTMsLTEyMTg5NjIxMj
+ksNjMzOTI0NjIwXX0=
 -->
