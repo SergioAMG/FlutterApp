@@ -86,13 +86,15 @@ Source [^2]
 
 ### Implementation Directions
 
-
+| Column 1 | Column 2      |
+|:--------:| -------------:|
+| centered | right-aligned |
 
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
 [^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDU1MTU3MDksLTEyNjUzNDgzNjYsMT
+eyJoaXN0b3J5IjpbLTEzMDkxMDg2MjIsLTEyNjUzNDgzNjYsMT
 cyODMwMTQ4NiwtMjY3NTg0MTEzLC0xMjE4OTYyMTI5LDYzMzky
 NDYyMF19
 -->
