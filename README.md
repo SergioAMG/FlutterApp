@@ -105,14 +105,18 @@ Source [^2]
 - Initialize the Generative Model
 - Call the Vertex AI Gemini API
 
+### Pricing Details
+- No Cost
+- Pay as you go
+
 
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
 [^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 [^3]: Calling the Models: [Get started with the Gemini API using the Vertex AI in Firebase SDKs.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODk3NDc0NiwxMzI0Nzg5MTIwLDE4Mz
-A4NTI2ODIsMTkxMTgxNzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0
-ODM2NiwxNzI4MzAxNDg2LC0yNjc1ODQxMTMsLTEyMTg5NjIxMj
-ksNjMzOTI0NjIwXX0=
+eyJoaXN0b3J5IjpbLTE5MjEzMDA5NDIsMTQxODk3NDc0NiwxMz
+I0Nzg5MTIwLDE4MzA4NTI2ODIsMTkxMTgxNzY0NSwtMTMwOTEw
+ODYyMiwtMTI2NTM0ODM2NiwxNzI4MzAxNDg2LC0yNjc1ODQxMT
+MsLTEyMTg5NjIxMjksNjMzOTI0NjIwXX0=
 -->
