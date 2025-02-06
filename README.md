@@ -109,15 +109,15 @@ Source [^2]
 - No-Cost (Spark)
 - Pay as you go (Blaze)
 
-Complete Information Visit: [Pricing Plans.](https://firebase.google.com/pricing)
+Complete Information Visit: [Pricing Plans and Calculator.](https://firebase.google.com/pricing)
 
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
 [^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 [^3]: Calling the Models: [Get started with the Gemini API using the Vertex AI in Firebase SDKs.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxMDk0MDAsMTQxODk3NDc0NiwxMzI0Nz
-g5MTIwLDE4MzA4NTI2ODIsMTkxMTgxNzY0NSwtMTMwOTEwODYy
-MiwtMTI2NTM0ODM2NiwxNzI4MzAxNDg2LC0yNjc1ODQxMTMsLT
-EyMTg5NjIxMjksNjMzOTI0NjIwXX0=
+eyJoaXN0b3J5IjpbMTI1MTQ4MzEzLDE0MTg5NzQ3NDYsMTMyND
+c4OTEyMCwxODMwODUyNjgyLDE5MTE4MTc2NDUsLTEzMDkxMDg2
+MjIsLTEyNjUzNDgzNjYsMTcyODMwMTQ4NiwtMjY3NTg0MTEzLC
+0xMjE4OTYyMTI5LDYzMzkyNDYyMF19
 -->
