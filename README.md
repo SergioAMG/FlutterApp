@@ -87,17 +87,17 @@ Source [^2]
 ### Implementation Directions
 
 | Steps | Description      |
-|:--------:| -------------:|
-| centered | right-aligned |
-| centered | right-aligned |
-| centered | right-aligned |
-| centered | right-aligned |
+|:---------| -------------:|
+| Connect your app to Firebase | right-aligned |
+| Install the SDK and initialize | right-aligned |
+| Call the Gemini API | right-aligned |
+| Prepare for production | right-aligned |
 
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
 [^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTgxNzY0NSwtMTMwOTEwODYyMiwtMT
-I2NTM0ODM2NiwxNzI4MzAxNDg2LC0yNjc1ODQxMTMsLTEyMTg5
-NjIxMjksNjMzOTI0NjIwXX0=
+eyJoaXN0b3J5IjpbLTE4MDk1OTYxNTAsMTkxMTgxNzY0NSwtMT
+MwOTEwODYyMiwtMTI2NTM0ODM2NiwxNzI4MzAxNDg2LC0yNjc1
+ODQxMTMsLTEyMTg5NjIxMjksNjMzOTI0NjIwXX0=
 -->
