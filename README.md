@@ -59,15 +59,22 @@ The  Vertex AI  Gemini API  gives you access to the latest generative AI models 
 
 With these client SDKs, you can add AI personalization to your app, build an AI chat experience, create AI-powered optimizations and automation, and much more.
 
+### How does it work?
+
+The Vertex AI in Firebase SDKs allows you to call the Vertex AI Gemini API directly from your mobile or web app removing the need to set up a backend.
+
 ### Key Capabilities
 - Multimodal input
 - Growing suite of capabilities
 - Security and abuse prevention for production apps
 - Robust infrastructure
 
+### Current available LLM models from Gemini AI
+
+
 ### Official Documentation
 Find complete information at: [Gemini API using Vertex AI in Firebase | Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQ2MzcwMTgsLTEyMTg5NjIxMjksNj
+eyJoaXN0b3J5IjpbLTE4NDY5NjE5OTIsLTEyMTg5NjIxMjksNj
 MzOTI0NjIwXX0=
 -->
