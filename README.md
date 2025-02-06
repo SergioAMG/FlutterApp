@@ -84,13 +84,15 @@ The Vertex AI in Firebase SDKs allows you to call the Vertex AI Gemini API direc
 
 Source [^2]
 
+### Implementation path
+
 ### Footnotes
 
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
-[^2]: I/O Model upport: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
+[^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzEzMzkyOTMsLTEyNjUzNDgzNjYsMT
+eyJoaXN0b3J5IjpbLTIwNjAyMzE4OTQsLTEyNjUzNDgzNjYsMT
 cyODMwMTQ4NiwtMjY3NTg0MTEzLC0xMjE4OTYyMTI5LDYzMzky
 NDYyMF19
 -->
