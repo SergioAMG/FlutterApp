@@ -1,6 +1,6 @@
 # DeepSeek clone with Vertex AI & Flutter
 
-A DeepSeek clone created with Flutter enabled by Vertex AI which allows the chat to interact directly with Google LLM & MLLM models such as Gemini 1.5 Flash, Pro, and Pro Vision.
+A DeepSeek clone created with Flutter enabled by Vertex AI  (Firebase) which allows the android chat to interact directly with Google LLM and MLLM models such as Gemini 1.5 Flash, Pro, and Pro Vision.
 
 Authors
 :  Sergio Martinez
@@ -111,7 +111,7 @@ chatKey.currentState?.sendMessageFromParent(
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY4NTY4NjEsLTE4MTUwMzQ2MiwxMj
+eyJoaXN0b3J5IjpbLTE5NTU2NDQxODMsLTE4MTUwMzQ2MiwxMj
 UxNDgzMTMsMTQxODk3NDc0NiwxMzI0Nzg5MTIwLDE4MzA4NTI2
 ODIsMTkxMTgxNzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0ODM2Ni
 wxNzI4MzAxNDg2LC0yNjc1ODQxMTMsLTEyMTg5NjIxMjksNjMz
