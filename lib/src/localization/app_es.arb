@@ -3,31 +3,31 @@
   "@appTitle": {
     "description": "The title of the application"
   },
-  "homeViewTitle": "New chat",
+  "homeViewTitle": "Nuevo chat",
   "@homeViewTitle": {
     "description": "The title of the home view"
   },
-  "homeViewMainText": "Hi, I'm Vertex AI.",
+  "homeViewMainText": "Hola, soy Vertex AI.",
   "@homeViewMainText": {
     "description": "The main text of the home view"
   },
-  "homeViewAlterText": "What can I do for you today?",
+  "homeViewAlterText": "¿En qué puedo ayudarte hoy?",
   "@homeViewAlterText": {
     "description": "The alter text of the home view"
   },
-  "homeViewHintText": "Send a message to Verytex",
+  "homeViewHintText": "Enviar mensaje a Verytex",
   "@homeViewHintText": {
     "description": "The hint text of the home view"
   },
-  "homeViewCameraText": "Camar",
+  "homeViewCameraText": "Camara",
   "@homeViewCameraText": {
     "description": "The camera text of the home view"
   },
-  "homeViewImageText": "Image",
+  "homeViewImageText": "Imagen",
   "@homeViewImageText": {
     "description": "The image text of the home view"
   },
-  "homeViewDocumentText": "Document",
+  "homeViewDocumentText": "Documento",
   "@homeViewDocumentText": {
     "description": "The document text of the home view"
   },
@@ -35,7 +35,7 @@
   "@vertexAIText": {
     "description": "Vertex AI text"
   },
-  "providedByGeminiAI": "Provided By Gemini AI & Firebase",
+  "providedByGeminiAI": "Provisto Por Gemini AI & Firebase",
   "@providedByGeminiAI": {
     "description": "Provided By Gemini AI text"
   }
