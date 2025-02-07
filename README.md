@@ -73,7 +73,7 @@ The Vertex AI in Firebase SDKs allows you to call the Vertex AI Gemini API direc
 - Robust infrastructure
 
 ### Available Models
-- Gemini 1.5 Flash
+- Gemini 1.5 Flash (Selected for this Demo)
 - Gemini 1.5 Pro
 - Gemini 1.0 Pro Vision
 - Gemini 1.0 Pro
@@ -98,9 +98,14 @@ Source [^2]
 - Development environment and Flutter with Dart 3.2.0+
 - Set up a Firebase project
 - Connect your app to Firebase
+a) Install Firebase CLI
+b) Install flutterfire_cli
 - Upgrade your project to use the pay-as-you-go Blaze pricing plan
 - Enable the required APIs in your project (Vertex AI API and Vertex AI in Firebase API)
+a) flutterfire configure - project
 - Add the Flutter SDK into your project
+a) flutter pub add firebase_core
+b) flutter pub add firebase_vertexai
 - Initialize the Vertex AI service
 - Initialize the Generative Model
 - Call the Vertex AI Gemini API
@@ -111,13 +116,52 @@ Source [^2]
 
 Complete Information Visit: [Pricing Plans and Calculator.](https://firebase.google.com/pricing)
 
+### Code Implementation in Dart
+
+##### main.dart
+```dart
+import  'package:firebase_core/firebase_core.dart';
+import  'firebase_options.dart';
+```
+```dart
+void  main() {
+      runApp(const  MyApp());
+      const  MyApp().initFirebase();
+}
+```
+```dart
+Future<void> initFirebase() async {
+// ignore: avoid_redundant_argument_values
+await Firebase.initializeApp(
+      options:  DefaultFirebaseOptions.currentPlatform
+);}
+```
+
+##### home_new_chat_view.dart
+```dart
+import  'package:firebase_vertexai/firebase_vertexai.dart';
+```
+```dart
+final  model  =  FirebaseVertexAI.instance.generativeModel(model:  'gemini-1.5-flash');
+// Provide a prompt that contains text
+final  prompt  = [Content.text(message)];
+// To generate text output, call generateContent with the text input
+final  response  =  await  model.generateContent(prompt);
+
+chatKey.currentState?.sendMessageFromParent(
+      response.text.toString(),
+      false
+);
+```
+
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
 [^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 [^3]: Calling the Models: [Get started with the Gemini API using the Vertex AI in Firebase SDKs.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTQ4MzEzLDE0MTg5NzQ3NDYsMTMyND
-c4OTEyMCwxODMwODUyNjgyLDE5MTE4MTc2NDUsLTEzMDkxMDg2
-MjIsLTEyNjUzNDgzNjYsMTcyODMwMTQ4NiwtMjY3NTg0MTEzLC
-0xMjE4OTYyMTI5LDYzMzkyNDYyMF19
+eyJoaXN0b3J5IjpbLTE4MTUwMzQ2MiwxMjUxNDgzMTMsMTQxOD
+k3NDc0NiwxMzI0Nzg5MTIwLDE4MzA4NTI2ODIsMTkxMTgxNzY0
+NSwtMTMwOTEwODYyMiwtMTI2NTM0ODM2NiwxNzI4MzAxNDg2LC
+0yNjc1ODQxMTMsLTEyMTg5NjIxMjksNjMzOTI0NjIwXX0=
 -->
