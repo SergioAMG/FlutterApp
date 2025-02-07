@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647974454520",
+    "project_id": "deepseekclonewithvertexai",
+    "storage_bucket": "deepseekclonewithvertexai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647974454520:android:3fb41f60ba506d1142270d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACV-s1O1fRLcjx3WoE45JsYfCnfat692M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
