@@ -2,6 +2,8 @@
 
 A DeepSeek clone created with Flutter enabled by Vertex AI  (Firebase) which allows the android chat to interact directly with Google LLM and MLLM models such as Gemini 1.5 Flash, Pro, and Pro Vision.
 
+![alt text](https://github.com/SergioAMG/FlutterApp/blob/main/assets/images/flutter_app.png?raw=true)
+
 Authors
 :  Sergio Martinez
 
@@ -111,9 +113,9 @@ chatKey.currentState?.sendMessageFromParent(
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU2NDQxODMsLTE4MTUwMzQ2MiwxMj
-UxNDgzMTMsMTQxODk3NDc0NiwxMzI0Nzg5MTIwLDE4MzA4NTI2
-ODIsMTkxMTgxNzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0ODM2Ni
-wxNzI4MzAxNDg2LC0yNjc1ODQxMTMsLTEyMTg5NjIxMjksNjMz
-OTI0NjIwXX0=
+eyJoaXN0b3J5IjpbMTI1NTM3MTAzNiwtMTgxNTAzNDYyLDEyNT
+E0ODMxMywxNDE4OTc0NzQ2LDEzMjQ3ODkxMjAsMTgzMDg1MjY4
+MiwxOTExODE3NjQ1LC0xMzA5MTA4NjIyLC0xMjY1MzQ4MzY2LD
+E3MjgzMDE0ODYsLTI2NzU4NDExMywtMTIxODk2MjEyOSw2MzM5
+MjQ2MjBdfQ==
 -->
