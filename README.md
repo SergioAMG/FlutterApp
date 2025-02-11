@@ -124,17 +124,18 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 
 - Secure the app (flutter and vertex ai)
 - Improve the architectural structure of the app (BLoC Pattern)
+- Implement modern software development best practices and patterns
 - Test the app (ui tests, unit test, usability test, and more)
 - Enable full support for multiple os, platforms, dimensions, orientation, and more 
 
 ### Business (Monetize App)
 - Create a brand around the created app
-- Develop the ai character, persona, avatar, based on a chosen niche
+- Develop the AI character, persona, avatar, based on a chosen niche
 - Set the unique tone of the conversation, and create rules for safe usage
 - Set up the model to stay in the role despite possible attacks
-- Define invisible prompts that will shape custom ai implementation
+- Define invisible prompts that will shape custom AI implementation
 - Create pricing and service tiers
-- Develop and executing digital marketing strategy for new product launch
+- Develop and execute digital marketing strategy for new product launch
 
 ### Special Considerations and Limitations
 
@@ -145,10 +146,10 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDIyNzQ0NSwxNDQ5NTEyMzc2LC0xMD
-c1OTkxMDgsLTE3MzA0MzU0ODQsLTE4MTUwMzQ2MiwxMjUxNDgz
-MTMsMTQxODk3NDc0NiwxMzI0Nzg5MTIwLDE4MzA4NTI2ODIsMT
-kxMTgxNzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0ODM2NiwxNzI4
-MzAxNDg2LC0yNjc1ODQxMTMsLTEyMTg5NjIxMjksNjMzOTI0Nj
-IwXX0=
+eyJoaXN0b3J5IjpbLTEzNDYyOTAwNDMsMTQ0OTUxMjM3NiwtMT
+A3NTk5MTA4LC0xNzMwNDM1NDg0LC0xODE1MDM0NjIsMTI1MTQ4
+MzEzLDE0MTg5NzQ3NDYsMTMyNDc4OTEyMCwxODMwODUyNjgyLD
+E5MTE4MTc2NDUsLTEzMDkxMDg2MjIsLTEyNjUzNDgzNjYsMTcy
+ODMwMTQ4NiwtMjY3NTg0MTEzLC0xMjE4OTYyMTI5LDYzMzkyND
+YyMF19
 -->
