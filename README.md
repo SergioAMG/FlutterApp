@@ -120,10 +120,12 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 ![alt text](https://github.com/SergioAMG/FlutterApp/blob/main/assets/images/flutter_app.jpg?raw=true)
 
 ### Next Steps
+### Techincal
 
 - Secure the app (flutter and vertex ai)
 - Improve the architectural structure of the app (BLoC Pattern)
-- 
+- Test the app (ui tests, unit test, usability test, and more)
+- Enable full support for multiple os, platforms, dimensions, orientation, and more 
 
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
 [^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
@@ -131,7 +133,7 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzEyNjE0NCwxNDQ5NTEyMzc2LC0xMD
+eyJoaXN0b3J5IjpbMTgzNjQ3MzQxNiwxNDQ5NTEyMzc2LC0xMD
 c1OTkxMDgsLTE3MzA0MzU0ODQsLTE4MTUwMzQ2MiwxMjUxNDgz
 MTMsMTQxODk3NDc0NiwxMzI0Nzg5MTIwLDE4MzA4NTI2ODIsMT
 kxMTgxNzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0ODM2NiwxNzI4
