@@ -119,16 +119,16 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 ```
 ![alt text](https://github.com/SergioAMG/FlutterApp/blob/main/assets/images/flutter_app.jpg?raw=true)
 
-### Next Steps
-### Technical
+### Next Steps in the App life cycle
+### Technical Debt / Technical Enhancements
 
 - Secure the app (flutter and vertex ai)
 - Improve the architectural structure of the app (BLoC Pattern)
 - Implement modern software development best practices and patterns
-- Test the app (ui tests, unit test, usability test, and more)
+- Test the app (UI tests, unit tests, usability tests, and more)
 - Enable full support for multiple os, platforms, dimensions, orientation, and more 
 
-### Business (Monetize App)
+### Business Model (Monetize App)
 - Create a brand around the created app
 - Develop the AI character, persona, avatar, based on a chosen niche
 - Set the unique tone of the conversation, and create rules for safe usage
@@ -146,7 +146,7 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDYyOTAwNDMsMTQ0OTUxMjM3NiwtMT
+eyJoaXN0b3J5IjpbLTIwMDE2OTc2MjEsMTQ0OTUxMjM3NiwtMT
 A3NTk5MTA4LC0xNzMwNDM1NDg0LC0xODE1MDM0NjIsMTI1MTQ4
 MzEzLDE0MTg5NzQ3NDYsMTMyNDc4OTEyMCwxODMwODUyNjgyLD
 E5MTE4MTc2NDUsLTEzMDkxMDg2MjIsLTEyNjUzNDgzNjYsMTcy
