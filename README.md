@@ -97,16 +97,27 @@ await Firebase.initializeApp(
 import  'package:firebase_vertexai/firebase_vertexai.dart';
 ```
 ```dart
-final  model  =  FirebaseVertexAI.instance.generativeModel(model:  'gemini-1.5-flash');
-// Provide a prompt that contains text
-final  prompt  = [Content.text(message)];
-// To generate text output, call generateContent with the text input
-final  response  =  await  model.generateContent(prompt);
+  final model = FirebaseVertexAI.instance.generativeModel(model: 'gemini-1.5-flash');
+  GenerateContentResponse? response;
 
-chatKey.currentState?.sendMessageFromParent(
-      response.text.toString(),
-      false
-);
+  if (message.imagePath == null) {
+    // Provide a prompt that contains text
+    final prompt = [Content.text(message.text)];
+    // To generate text output, call generateContent with the text input
+    response = await model.generateContent(prompt);
+  }
+  else if (message.imagePath != null) {
+    // Provide a text prompt to include with the image
+    final prompt = TextPart(message.text);
+    // Prepare images for input
+    final image = await File(message.imagePath!).readAsBytes();
+    final imagePart = InlineDataPart('image/jpeg', image);
+    // To generate text output, call generateContent with the text and image
+    response = await model.generateContent([
+      Content.multi([prompt,imagePart])
+    ]);
+  }
+
 ```
 
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
@@ -115,9 +126,9 @@ chatKey.currentState?.sendMessageFromParent(
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzU5OTEwOCwtMTczMDQzNTQ4NCwtMT
-gxNTAzNDYyLDEyNTE0ODMxMywxNDE4OTc0NzQ2LDEzMjQ3ODkx
-MjAsMTgzMDg1MjY4MiwxOTExODE3NjQ1LC0xMzA5MTA4NjIyLC
-0xMjY1MzQ4MzY2LDE3MjgzMDE0ODYsLTI2NzU4NDExMywtMTIx
-ODk2MjEyOSw2MzM5MjQ2MjBdfQ==
+eyJoaXN0b3J5IjpbNDQ2NDc5MTgwLC0xMDc1OTkxMDgsLTE3Mz
+A0MzU0ODQsLTE4MTUwMzQ2MiwxMjUxNDgzMTMsMTQxODk3NDc0
+NiwxMzI0Nzg5MTIwLDE4MzA4NTI2ODIsMTkxMTgxNzY0NSwtMT
+MwOTEwODYyMiwtMTI2NTM0ODM2NiwxNzI4MzAxNDg2LC0yNjc1
+ODQxMTMsLTEyMTg5NjIxMjksNjMzOTI0NjIwXX0=
 -->
