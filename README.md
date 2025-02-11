@@ -128,6 +128,7 @@ Source [^4]
 - Implement modern software development best practices and patterns
 - Test the app (UI tests, unit tests, usability tests, and more)
 - Enable full support for multiple os, platforms, dimensions, orientation, and more 
+- Enable app data storage (Cloud)
 - CI/CD for deployment
 
 ### Business Model (Monetize App)
@@ -160,11 +161,11 @@ Source [^4]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDU1NjQ2LDEzMDkxNTA5MDgsLTE5Nz
-cxNDUyOTIsLTM5ODg2Njk3NiwxNDQ5NTEyMzc2LC0xMDc1OTkx
-MDgsLTE3MzA0MzU0ODQsLTE4MTUwMzQ2MiwxMjUxNDgzMTMsMT
-QxODk3NDc0NiwxMzI0Nzg5MTIwLDE4MzA4NTI2ODIsMTkxMTgx
-NzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0ODM2NiwxNzI4MzAxND
-g2LC0yNjc1ODQxMTMsLTEyMTg5NjIxMjksNjMzOTI0NjIwXX0=
-
+eyJoaXN0b3J5IjpbLTE1MDM2OTMzMjYsMTQ0MDU1NjQ2LDEzMD
+kxNTA5MDgsLTE5NzcxNDUyOTIsLTM5ODg2Njk3NiwxNDQ5NTEy
+Mzc2LC0xMDc1OTkxMDgsLTE3MzA0MzU0ODQsLTE4MTUwMzQ2Mi
+wxMjUxNDgzMTMsMTQxODk3NDc0NiwxMzI0Nzg5MTIwLDE4MzA4
+NTI2ODIsMTkxMTgxNzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0OD
+M2NiwxNzI4MzAxNDg2LC0yNjc1ODQxMTMsLTEyMTg5NjIxMjks
+NjMzOTI0NjIwXX0=
 -->
