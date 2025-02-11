@@ -137,7 +137,9 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 - Create pricing and service tiers
 - Develop and execute digital marketing strategy for new product launch
 
-### AI psycologist for c
+#### AI Psychologist for children with ADHD & Autism
+
+
 
 ### Special Considerations and Limitations
 - AI Prompt injection attacks
@@ -153,7 +155,7 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDU4NzgyMywtMTk3NzE0NTI5MiwtMz
+eyJoaXN0b3J5IjpbMTMwOTE1MDkwOCwtMTk3NzE0NTI5MiwtMz
 k4ODY2OTc2LDE0NDk1MTIzNzYsLTEwNzU5OTEwOCwtMTczMDQz
 NTQ4NCwtMTgxNTAzNDYyLDEyNTE0ODMxMywxNDE4OTc0NzQ2LD
 EzMjQ3ODkxMjAsMTgzMDg1MjY4MiwxOTExODE3NjQ1LC0xMzA5
