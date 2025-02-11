@@ -143,7 +143,7 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 - AI Data Leaking
 - Malicious URLs inside the model responses
 - Social Engineering over AI
-- Models over usage, abuse oif resources 
+- Models over usage and abuse of resources 
 
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
 [^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
@@ -151,10 +151,10 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1ODM2ODI4LDE0NDk1MTIzNzYsLTEwNz
-U5OTEwOCwtMTczMDQzNTQ4NCwtMTgxNTAzNDYyLDEyNTE0ODMx
-MywxNDE4OTc0NzQ2LDEzMjQ3ODkxMjAsMTgzMDg1MjY4MiwxOT
-ExODE3NjQ1LC0xMzA5MTA4NjIyLC0xMjY1MzQ4MzY2LDE3Mjgz
-MDE0ODYsLTI2NzU4NDExMywtMTIxODk2MjEyOSw2MzM5MjQ2Mj
-BdfQ==
+eyJoaXN0b3J5IjpbLTM5ODg2Njk3NiwxNDQ5NTEyMzc2LC0xMD
+c1OTkxMDgsLTE3MzA0MzU0ODQsLTE4MTUwMzQ2MiwxMjUxNDgz
+MTMsMTQxODk3NDc0NiwxMzI0Nzg5MTIwLDE4MzA4NTI2ODIsMT
+kxMTgxNzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0ODM2NiwxNzI4
+MzAxNDg2LC0yNjc1ODQxMTMsLTEyMTg5NjIxMjksNjMzOTI0Nj
+IwXX0=
 -->
