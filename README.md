@@ -4,8 +4,6 @@ A DeepSeek clone created with Flutter enabled by Vertex AI  (Firebase) which all
 
 ![alt text](https://github.com/SergioAMG/FlutterApp/blob/main/assets/images/flutter_app_2.jpg?raw=true)
 
-![alt text](https://github.com/SergioAMG/FlutterApp/blob/main/assets/images/flutter_app.jpg?raw=true)
-
 Authors
 :  Sergio Martinez
 
@@ -119,6 +117,7 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
   }
 
 ```
+![alt text](https://github.com/SergioAMG/FlutterApp/blob/main/assets/images/flutter_app.jpg?raw=true)
 
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
 [^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
@@ -126,9 +125,9 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2NDc5MTgwLC0xMDc1OTkxMDgsLTE3Mz
-A0MzU0ODQsLTE4MTUwMzQ2MiwxMjUxNDgzMTMsMTQxODk3NDc0
-NiwxMzI0Nzg5MTIwLDE4MzA4NTI2ODIsMTkxMTgxNzY0NSwtMT
-MwOTEwODYyMiwtMTI2NTM0ODM2NiwxNzI4MzAxNDg2LC0yNjc1
-ODQxMTMsLTEyMTg5NjIxMjksNjMzOTI0NjIwXX0=
+eyJoaXN0b3J5IjpbMTQ0OTUxMjM3NiwtMTA3NTk5MTA4LC0xNz
+MwNDM1NDg0LC0xODE1MDM0NjIsMTI1MTQ4MzEzLDE0MTg5NzQ3
+NDYsMTMyNDc4OTEyMCwxODMwODUyNjgyLDE5MTE4MTc2NDUsLT
+EzMDkxMDg2MjIsLTEyNjUzNDgzNjYsMTcyODMwMTQ4NiwtMjY3
+NTg0MTEzLC0xMjE4OTYyMTI5LDYzMzkyNDYyMF19
 -->
