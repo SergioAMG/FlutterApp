@@ -139,7 +139,8 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 
 ### Special Considerations and Limitations
 - AI Prompt injection attacks
-- AI DDos 
+- AI DDoS attacks
+- AI 
 
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
 [^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
@@ -147,7 +148,7 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjU3Mzc3MCwxNDQ5NTEyMzc2LC0xMD
+eyJoaXN0b3J5IjpbLTU2NTQyNDgzNCwxNDQ5NTEyMzc2LC0xMD
 c1OTkxMDgsLTE3MzA0MzU0ODQsLTE4MTUwMzQ2MiwxMjUxNDgz
 MTMsMTQxODk3NDc0NiwxMzI0Nzg5MTIwLDE4MzA4NTI2ODIsMT
 kxMTgxNzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0ODM2NiwxNzI4
