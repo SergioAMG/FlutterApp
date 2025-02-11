@@ -130,10 +130,10 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 ### Business
 - Create a brand around the created app
 - Develop the ai character, persona, avatar, based on a chosen niche
+- Set the unique tone of the conversation, and create rules for safe usage
 - Set up the model to stay in the role despite possible attacks
-- Define invisible prompts that will share custom ai
-- Set the unique tone of the conversation, and create rules of safe usage
-- Create a 
+- Define invisible prompts that will shape custom ai implementation
+- Create pricing and service 
 
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
 [^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
@@ -141,7 +141,7 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjkzMDE4MCwxNDQ5NTEyMzc2LC0xMD
+eyJoaXN0b3J5IjpbLTIzMTA3MzA4NywxNDQ5NTEyMzc2LC0xMD
 c1OTkxMDgsLTE3MzA0MzU0ODQsLTE4MTUwMzQ2MiwxMjUxNDgz
 MTMsMTQxODk3NDc0NiwxMzI0Nzg5MTIwLDE4MzA4NTI2ODIsMT
 kxMTgxNzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0ODM2NiwxNzI4
