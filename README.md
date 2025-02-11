@@ -149,7 +149,8 @@ Source [^4]
 - AI Data leaking
 - Malicious URLs inside the model responses
 - Social Engineering over AI
-- Models over usage and API abuse 
+- Models over usage and API abuse
+Source [^4]
 
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
 [^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
@@ -158,7 +159,7 @@ Source [^4]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDI4NzQ2NCwxMzA5MTUwOTA4LC0xOT
+eyJoaXN0b3J5IjpbMTc1Nzk2MDE5OSwxMzA5MTUwOTA4LC0xOT
 c3MTQ1MjkyLC0zOTg4NjY5NzYsMTQ0OTUxMjM3NiwtMTA3NTk5
 MTA4LC0xNzMwNDM1NDg0LC0xODE1MDM0NjIsMTI1MTQ4MzEzLD
 E0MTg5NzQ3NDYsMTMyNDc4OTEyMCwxODMwODUyNjgyLDE5MTE4
