@@ -130,7 +130,7 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 
 ### Business Model (Monetize App)
 - Create a brand around the created app
-- Develop the AI character, persona, avatar, based on a chosen niche
+- Develop the AI character, persona, or avatar, based on a chosen niche
 - Set the unique tone of the conversation, and create rules for safe usage
 - Set up the model to stay in the role despite possible attacks
 - Define invisible prompts that will shape custom AI implementation
@@ -138,7 +138,8 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 - Develop and execute digital marketing strategy for new product launch
 
 ### Special Considerations and Limitations
-
+- AI Prompt injection attacks
+- AI DDos 
 
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
 [^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
@@ -146,10 +147,10 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDE2OTc2MjEsMTQ0OTUxMjM3NiwtMT
-A3NTk5MTA4LC0xNzMwNDM1NDg0LC0xODE1MDM0NjIsMTI1MTQ4
-MzEzLDE0MTg5NzQ3NDYsMTMyNDc4OTEyMCwxODMwODUyNjgyLD
-E5MTE4MTc2NDUsLTEzMDkxMDg2MjIsLTEyNjUzNDgzNjYsMTcy
-ODMwMTQ4NiwtMjY3NTg0MTEzLC0xMjE4OTYyMTI5LDYzMzkyND
-YyMF19
+eyJoaXN0b3J5IjpbLTM2MjU3Mzc3MCwxNDQ5NTEyMzc2LC0xMD
+c1OTkxMDgsLTE3MzA0MzU0ODQsLTE4MTUwMzQ2MiwxMjUxNDgz
+MTMsMTQxODk3NDc0NiwxMzI0Nzg5MTIwLDE4MzA4NTI2ODIsMT
+kxMTgxNzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0ODM2NiwxNzI4
+MzAxNDg2LC0yNjc1ODQxMTMsLTEyMTg5NjIxMjksNjMzOTI0Nj
+IwXX0=
 -->
