@@ -139,7 +139,7 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 
 #### AI Psychologist for children with ADHD & Autism
 
-
+![alt text](https://github.com/SergioAMG/FlutterApp/blob/main/assets/images/flutter_a.png?raw=true)
 
 ### Special Considerations and Limitations
 - AI Prompt injection attacks
@@ -155,10 +155,11 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTE1MDkwOCwtMTk3NzE0NTI5MiwtMz
-k4ODY2OTc2LDE0NDk1MTIzNzYsLTEwNzU5OTEwOCwtMTczMDQz
-NTQ4NCwtMTgxNTAzNDYyLDEyNTE0ODMxMywxNDE4OTc0NzQ2LD
-EzMjQ3ODkxMjAsMTgzMDg1MjY4MiwxOTExODE3NjQ1LC0xMzA5
-MTA4NjIyLC0xMjY1MzQ4MzY2LDE3MjgzMDE0ODYsLTI2NzU4ND
-ExMywtMTIxODk2MjEyOSw2MzM5MjQ2MjBdfQ==
+eyJoaXN0b3J5IjpbNTcxMTg0ODEsMTMwOTE1MDkwOCwtMTk3Nz
+E0NTI5MiwtMzk4ODY2OTc2LDE0NDk1MTIzNzYsLTEwNzU5OTEw
+OCwtMTczMDQzNTQ4NCwtMTgxNTAzNDYyLDEyNTE0ODMxMywxND
+E4OTc0NzQ2LDEzMjQ3ODkxMjAsMTgzMDg1MjY4MiwxOTExODE3
+NjQ1LC0xMzA5MTA4NjIyLC0xMjY1MzQ4MzY2LDE3MjgzMDE0OD
+YsLTI2NzU4NDExMywtMTIxODk2MjEyOSw2MzM5MjQ2MjBdfQ==
+
 -->
