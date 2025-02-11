@@ -122,7 +122,8 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 ### Next Steps in the App life cycle
 ### Technical Debt / Technical Enhancements
 
-- Secure the app (flutter and vertex ai)
+- Secure the app (flutter and vertex ai) 
+Source [^4]
 - Improve the architectural structure of the app (BLoC Pattern)
 - Implement modern software development best practices and patterns
 - Test the app (UI tests, unit tests, usability tests, and more)
@@ -153,14 +154,15 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
 [^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 [^3]: Calling the Models: [Get started with the Gemini API using the Vertex AI in Firebase SDKs.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
+[^4]: Calling the Models: [Get started with the Gemini API using the Vertex AI in Firebase SDKs.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjI2NDc5MTgsMTMwOTE1MDkwOCwtMT
-k3NzE0NTI5MiwtMzk4ODY2OTc2LDE0NDk1MTIzNzYsLTEwNzU5
-OTEwOCwtMTczMDQzNTQ4NCwtMTgxNTAzNDYyLDEyNTE0ODMxMy
-wxNDE4OTc0NzQ2LDEzMjQ3ODkxMjAsMTgzMDg1MjY4MiwxOTEx
-ODE3NjQ1LC0xMzA5MTA4NjIyLC0xMjY1MzQ4MzY2LDE3MjgzMD
-E0ODYsLTI2NzU4NDExMywtMTIxODk2MjEyOSw2MzM5MjQ2MjBd
-fQ==
+eyJoaXN0b3J5IjpbLTU1NDE5NTA5NCwxMzA5MTUwOTA4LC0xOT
+c3MTQ1MjkyLC0zOTg4NjY5NzYsMTQ0OTUxMjM3NiwtMTA3NTk5
+MTA4LC0xNzMwNDM1NDg0LC0xODE1MDM0NjIsMTI1MTQ4MzEzLD
+E0MTg5NzQ3NDYsMTMyNDc4OTEyMCwxODMwODUyNjgyLDE5MTE4
+MTc2NDUsLTEzMDkxMDg2MjIsLTEyNjUzNDgzNjYsMTcyODMwMT
+Q4NiwtMjY3NTg0MTEzLC0xMjE4OTYyMTI5LDYzMzkyNDYyMF19
+
 -->
