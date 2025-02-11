@@ -119,15 +119,20 @@ import  'package:firebase_vertexai/firebase_vertexai.dart';
 ```
 ![alt text](https://github.com/SergioAMG/FlutterApp/blob/main/assets/images/flutter_app.jpg?raw=true)
 
+### Next Steps
+
+- Secure the app at
+
 [^1]: Official Documentation: [Gemini API using Vertex AI in Firebase.](https://firebase.google.com/docs/vertex-ai)
 [^2]: Gemini Models I/O Support: [Supported input and output for each model.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 [^3]: Calling the Models: [Get started with the Gemini API using the Vertex AI in Firebase SDKs.](https://firebase.google.com/docs/vertex-ai/gemini-models#input-output-comparison)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTUxMjM3NiwtMTA3NTk5MTA4LC0xNz
-MwNDM1NDg0LC0xODE1MDM0NjIsMTI1MTQ4MzEzLDE0MTg5NzQ3
-NDYsMTMyNDc4OTEyMCwxODMwODUyNjgyLDE5MTE4MTc2NDUsLT
-EzMDkxMDg2MjIsLTEyNjUzNDgzNjYsMTcyODMwMTQ4NiwtMjY3
-NTg0MTEzLC0xMjE4OTYyMTI5LDYzMzkyNDYyMF19
+eyJoaXN0b3J5IjpbMTUxODIxNTAxOCwxNDQ5NTEyMzc2LC0xMD
+c1OTkxMDgsLTE3MzA0MzU0ODQsLTE4MTUwMzQ2MiwxMjUxNDgz
+MTMsMTQxODk3NDc0NiwxMzI0Nzg5MTIwLDE4MzA4NTI2ODIsMT
+kxMTgxNzY0NSwtMTMwOTEwODYyMiwtMTI2NTM0ODM2NiwxNzI4
+MzAxNDg2LC0yNjc1ODQxMTMsLTEyMTg5NjIxMjksNjMzOTI0Nj
+IwXX0=
 -->
